@@ -1,3 +1,7 @@
+/*
+This class prints the output form the miss class and outputs it to the user.
+*/
+
 import java.util.concurrent.TimeUnit;
 
 public class Print extends assignment1 {
