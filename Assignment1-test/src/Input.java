@@ -1,3 +1,8 @@
+/*
+Takes input from user and validates that the users input is in the correct data range to perform
+the calculations
+*/
+
 import com.sun.source.tree.WhileLoopTree;
 
 import java.util.Scanner;
