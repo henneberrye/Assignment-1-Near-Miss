@@ -1,3 +1,8 @@
+/*
+This class will find all the near misses by calling the target and miss classes, comparing them
+and checking to see if it is the smallest miss, and then return the values of the smallest miss
+*/
+
 public class Find extends Input {
 
     public static void findNearMisses(int k, int n) throws InterruptedException {
