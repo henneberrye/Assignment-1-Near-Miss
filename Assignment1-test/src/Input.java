@@ -12,7 +12,7 @@ public class Input {
             k = sc.nextInt();
         }
 
-        while (n < 2 && n > 12) {
+        while (n < 2 || n > 12) {
             System.out.print("Please enter a value for n greater than 2 and less than 12: ");
             n = sc.nextInt();
         }
