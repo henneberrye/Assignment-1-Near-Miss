@@ -1,3 +1,8 @@
+/*
+This class will calculate the misses and tell the user how far
+from the target number you are
+*/
+
 public class Miss extends assignment1 {
     public static double[] calcMiss(double target, int n) {
         // CALCUATE Z AND FIND THE CLOSEST MISS
