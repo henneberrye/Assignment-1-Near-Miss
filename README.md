@@ -11,5 +11,5 @@ Step 1) Open Command Prompt. Then press the Windows key and type “cmd” on yo
 Step 2) Type the command “java -jar C:pathtofile.jar” Enter the command prompt where “pathtofile” is the path of the file in question.
 Step 3) Run the command.
 Step 4) Enter the vaule for k.
-Step 5) enter the value for n.
-Step 6) analyize the output for near misses.
+Step 5) Enter the value for n.
+Step 6) Analyze the output for near misses.
